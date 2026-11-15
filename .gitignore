@@ -1,0 +1,9 @@
+# This repository only holds docs and assets; builds are attached to Releases.
+*.zip
+*.crx
+*.pem
+dist/
+node_modules/
+.env*
+.DS_Store
+Thumbs.db
