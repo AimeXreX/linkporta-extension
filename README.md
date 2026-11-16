@@ -10,14 +10,14 @@
 
 </div>
 
-LinkPorta adds a **“Send to Telegram”** button to YouTube, Instagram, TikTok, X, SoundCloud, Spotify, Pinterest, Reddit, Facebook, Aparat, Vimeo, Twitch and Threads. Click it and the [@LinkPorta_Bot](https://t.me/LinkPorta_Bot) Telegram bot delivers the file to your chat, with a live progress bar.
+LinkPorta adds a **“Send to Telegram”** button to YouTube, Instagram, TikTok, X, SoundCloud, Spotify, Pinterest, Reddit, Facebook, Aparat, Vimeo, Twitch and Threads, and with “all websites” mode on, to 1,000+ other video and audio sites. Click it and the [@LinkPorta_Bot](https://t.me/LinkPorta_Bot) Telegram bot delivers the file to your chat, with a live progress bar.
 
 ## Features
 - **Floating button** on video/post pages (collapses after a few seconds, never in the way)
 - **Hover button** on every downloadable link: feeds, search results, comments
 - **Right-click** any link or page on *any* website → “Send to Telegram”
 - **Popup:** send the current page, see recent sends and their status, settings
-- **Optional “all websites” mode:** asks for permission only when you turn it on
+- **Optional “all websites” mode:** the button on 1,000+ more video and audio sites; asks for permission only when you turn it on
 - Telegram login (no password), dark/light theme, Persian RTL interface
 - Works on Chrome, Edge, Brave, Opera and any Chromium browser
 
